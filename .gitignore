@@ -1,0 +1,9 @@
+# checker state, browser profiles and screenshots
+.taste-skill/
+shots/
+
+# local tooling, kept out of the repository
+.claude/
+skills-lock.json
+names.json
+commit-per-file.ps1
